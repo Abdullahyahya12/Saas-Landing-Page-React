@@ -4,7 +4,7 @@ A modern, responsive SaaS landing page built with **React, Vite and Tailwind CSS
 
 ## 🚀 Live Demo
 
-Live demo coming soon.
+[View Live Demo](https://saas-landing-page-react-steel.vercel.app/).
 
 ## 📌 Project Overview
 
